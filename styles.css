@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #faf0faE6;
+    margin: 0;
+    align-items: center;
+    /* padding: 0;
+    display: flex;
+    justify-content: center;
+    
+    height: 100vh; */ 
+}
+
+h1{
+    color: #352f44;
+    /* font-size: 100px; */
+    font-family: 'Dancing Script', cursive;
+}
+.btn-primary {
+    background-color: #5c5470;
+    color: #ffffff; /* Optionally, set text color to white for contrast */   
+    font-family:cursive;
+
+}
+.btn-primary:hover{
+    background-color: rgb(244, 199, 242);
+    color: black;
+}
+p{
+    
+    font-family: monospace;
+    color: rgb(9, 14, 4);
+}
